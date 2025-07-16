@@ -18,8 +18,3 @@ This is a simple Publisher-Subscriber (Pub/Sub) messaging system implemented usi
 
 - **Language**: Python 3.x
 - **Concepts**: Socket Programming, Multi-threading
-
----
-
-## 📁 Project Structure
-
